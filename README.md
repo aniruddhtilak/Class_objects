@@ -22,27 +22,40 @@ Algorithm:
 1. Create a class named 'calender':
    a. Declare public member variables to store the year, month, day, year of birth, month of birth, date of birth, and the user's choice.
    b. In the constructor:
+   
       i. Prompt the user to enter the current year, month, and day.
-      ii. Provide the user with a choice: 
+   
+      ii. Provide the user with a choice:
+   
           - Calculate Age
+   
           - Exit
+   
       iii. If the user chooses to calculate age:
+   
            - Prompt the user to enter the year of birth, month of birth, and date of birth.
+   
 
-2. Define a member function 'checker' in the 'calender' class:
+3. Define a member function 'checker' in the 'calender' class:
+4. 
    a. Calculate the age based on the current date and date of birth:
+   
       i. Calculate the year difference, considering the month of birth and the current month.
+   
       ii. Calculate the month difference.
+   
       iii. Calculate the day difference, considering the day of birth and the current day.
+   
    b. Print the calculated age in the format "Years Months Days".
+   
 
-3. In the 'main()' function:
+6. In the 'main()' function:
    a. Create an instance of the 'calender' class named 'c1'.
    b. Check the user's choice:
       - If the user chooses to calculate age, call the 'checker' function to calculate and display the age.
       - If the user chooses to exit, display the current date.
 
-4. End of the program.
+7. End of the program.
 
 
 **C. Basic class-** calculates and displays the volume of a cube using a class named 'cube' 
