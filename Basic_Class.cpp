@@ -2,6 +2,7 @@
 using namespace std;
 class cube{
     public: //access specifier
+//cannot access private or protected element outside class.
     double height=2.0;
     double width=3.0;
     double length=4.0;
