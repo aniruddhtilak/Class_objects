@@ -3,7 +3,7 @@ using namespace std;
 class calender{
     public:
     int year;
-    calender(){
+    calender(){ //constructor
         cout<<"Enter year - ";
         cin>>year;
     }
