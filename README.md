@@ -16,7 +16,7 @@ Algorithm :
 3. End of the program.
 
 
-**B.Age calculator-** calculate a person's age based on their date of birth and the current date.
+**B. Age calculator-** calculate a person's age based on their date of birth and the current date.
 Algorithm:
 
 1. Create a class named 'calender':
@@ -66,7 +66,7 @@ Algorithm:
 3. End of the program.
 
 
-**D.Calender constructor-** determine whether a given year is a leap year or not. 
+**D. Calender constructor-** determine whether a given year is a leap year or not. 
 Algorithm:
 
 1. Create a class named 'calender':
@@ -86,7 +86,7 @@ Algorithm:
 4. End of the program.
 
 
-**E.Compare size of cube-** calculates the volume of a cube and then determines whether the cube is "large" or "small" 
+**E. Compare size of cube-** calculates the volume of a cube and then determines whether the cube is "large" or "small" 
 Algorithm:
 
 1. Create a class named 'cube':
@@ -107,7 +107,7 @@ Algorithm:
 
 4. End of the program.
 
-**F.Constructor=**
+**F. Constructor=**
 Same as previous with a constructor included.
 
 **G.Getter-** defines a cube class that represents a cube's dimensions and calculates its volume. 
@@ -142,7 +142,7 @@ Algorithms:
 
 6. End of the program.
 
-**H.Leap year checker-** defines a calendar class for date input and leap year checking. 
+**H. Leap year checker-** defines a calendar class for date input and leap year checking. 
 Algorithm:
 
 1. Create a class named 'calendar':
