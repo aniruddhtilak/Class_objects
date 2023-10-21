@@ -5,7 +5,7 @@ class cube{
     double height=2.0;
     double width=3.0;
     double length=4.0;
-    cube(){
+    cube(){ //a function having nam same as of he class is callesa getter and is called automaticlly.
         cin>>length;
         cin>>width;
         cin>>height;
