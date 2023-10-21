@@ -3,9 +3,7 @@ using namespace std;
 class cube{
     public: //access specifier
     double height=2.0;
-    protected:
     double width=3.0;
-    private:
     double length=4.0;
  };
 int main(){
