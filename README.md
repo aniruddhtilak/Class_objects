@@ -25,15 +25,9 @@ Algorithm:
    
       i. Prompt the user to enter the current year, month, and day.
    
-      ii. Provide the user with a choice:
+      ii. Provide the user with a choice: - Calculate Age- Exit
    
-          - Calculate Age
-   
-          - Exit
-   
-      iii. If the user chooses to calculate age:
-   
-           - Prompt the user to enter the year of birth, month of birth, and date of birth.
+      iii. If the user chooses to calculate age:- Prompt the user to enter the year of birth, month of birth, and date of birth.
    
 
 3. Define a member function 'checker' in the 'calender' class:
